@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://macx.ws/uploads/posts/2021-08/1629114579_ubar.png" width="440" alt="uBar Logo" />
   <br/><br/>
-  <a href="https://instal-apps-osx.github.io/.github/ubarmac">
+  <a href="https://soft-mac-install.github.io/.github/ubarmac">
     <img src="https://img.shields.io/badge/Get%20uBar%20for%20macOS-007AFF?style=for-the-badge&logo=apple" />
   </a>
 </div>
